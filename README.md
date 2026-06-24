@@ -1,4 +1,4 @@
-# eosc-beyond-use-cases
+# EOSC BEYOND use cases for the Execution Framework
 This repository is for code that showcase the usage of services of the EOSC Beyond EC funded project
 
 Use cases:
